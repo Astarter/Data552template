@@ -1,6 +1,6 @@
 # Advanced function(s)
 ## Code Attribution: Code snippets taken and adapted from https://towardsdatascience.com/how-to-be-pythonic-and-why-you-should-care-188d63a5037e
-
+### Updated by ben
 def even_value_doubler(array_to_double = [1,2,3,5,6,7,9,10,12]):
     """ 
     This function allegedly takes an list array of numbers and doubles the value of every even value in the list.
